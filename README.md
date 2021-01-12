@@ -4,5 +4,6 @@ Learning basic Microservices
 
 ## Tech stack
 
-- Node.js
+- Node/Express
+- MongoDB
 - React.js
