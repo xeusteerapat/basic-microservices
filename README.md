@@ -1,6 +1,6 @@
 # basic-microservices
 
-Learning basic Microservices
+Learning basic Microservices by creating Blogging app
 
 ## Tech stack
 
