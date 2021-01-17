@@ -49,7 +49,7 @@ build:
           - src: '*.js'
             dest: .
     - image: xeusteerapat/query
-      context: query
+      context: query-service
       docker:
         dockerfile: Dockerfile
       sync:
