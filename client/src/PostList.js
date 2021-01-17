@@ -11,6 +11,7 @@ const PostList = () => {
 
     setPosts(res.data);
   };
+  console.log(posts);
 
   useEffect(() => {
     fetchPosts();
